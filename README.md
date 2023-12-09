@@ -1,2 +1,2 @@
-# languageRecognition
+# Language Recognition
 Приложение автоматического распознавания языка
